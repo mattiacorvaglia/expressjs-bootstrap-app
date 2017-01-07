@@ -26,8 +26,8 @@ To run the application execute:
 ```
 node server.js
 ```
-And check out the output on your browser by typing the URL [localhost:3000](localhost:3000)
+And check out the output on your browser by typing the URL [localhost:3000](http://localhost:3000)
 
 ## Authors
 
-**Mattia Corvaglia** - [mattiacorvaglia.com](mailto:http://mattiacorvaglia.com)
+**Mattia Corvaglia** - [corvagliamattia@gmail.com](mailto:corvagliamattia@gmail.com) - [mattiacorvaglia.com](http://mattiacorvaglia.com)
